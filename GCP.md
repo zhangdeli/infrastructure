@@ -7,3 +7,6 @@
 
 ## Quick Start Google Cloud
 ### https://console.cloud.google.com/welcome/new
+
+## Vertex AI Gemini
+### https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models?hl=zh-cn#gemini-models
