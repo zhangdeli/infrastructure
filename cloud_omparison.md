@@ -11,6 +11,7 @@
 | Load Balancing                | Cloud Load Balancing             | Elastic Load Balancing          | Load Balancer                    |
 | WAF                           | Cloud Armor for WAF              | Web Application Firewall        | Web Application Firewall         |
 | Database (Relational)         | Cloud SQL                        | RDS                              | SQL Database                     |
+| In-Memory (NoSQL)             | Memorystore                      | ElastiCache                     | Azure Cache for Redis                    |
 | Document Database             | Firestore                        | DynamoDB                         | Cosmos DB                        |
 | Data Analytics                | BigQuery                         | Redshift                         | Synapse Analytics                |
 | Data Processing/Analytics     | Dataproc                         | Elastic MapReduce                | HDInsight                        |
