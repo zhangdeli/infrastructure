@@ -1,4 +1,4 @@
-| **Product Category**                      | **Google Cloud**                  | **AWS**                       | **Azure**              |
+| **Service Type**              | **Google Cloud**                 | **AWS**                          | **Azure**                        |
 |:------------------------------|:---------------------------------|:---------------------------------|:---------------------------------|
 | Virtual Machines              | Compute Engine (GCE)             | Elastic Compute Cloud (EC2)      | Virtual Machine (VMs)            |
 | Kubernetes Platform           | Google Kubernetes Engine (GKE)   | Elastic Kubernetes Service (EKS)  | Azure Kubernetes Service (AKS)  |
