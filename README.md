@@ -1,1 +1,1 @@
-# AI & Cloud Infra
+# AI & Cloud Infrastructure
