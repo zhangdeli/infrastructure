@@ -1,9 +1,9 @@
 | **Product Category**                      | **Google Cloud**                  | **AWS**                       | **Azure**            |
 |:------------------------------|:---------------------------------|:---------------------------------|:---------------------------------|
-| Compute                       | Compute Engine                   | Elastic Compute Cloud (EC2)      | Virtual Machine                  |
+| Compute                       | Compute Engine (GCE)             | Elastic Compute Cloud (EC2)      | Virtual Machine                  |
 | Container Kubernetes Service | Google Kubernetes Engine (GKE)   | Elastic Kubernetes Service (EKS) | Azure Kubernetes Service (AKS) |
-| Serverless                    | Cloud Functions                    | Lambda                           | Azure Functions                  |
-| Object Storage                | Cloud Storage                    | Simple Storage Service (S3)     | Blob Storage                     |
+| Serverless                    | Cloud Functions                    | Lambda                        | Azure Functions                  |
+| Object Storage                | Cloud Storage (GCS)              | Simple Storage Service (S3)     | Blob Storage                     |
 | Block Storage                 | Persistent Disk                  | Elastic Block Store              | Managed Disk                     |
 | File Storage (NAS)            | Filestore                        | Elastic File System             | File Storage                     |
 | Networking                    | Virtual Private Cloud            | Virtual Private Cloud            | Virtual Network                  |
@@ -11,7 +11,7 @@
 | Load Balancing                | Cloud Load Balancing             | Elastic Load Balancing          | Load Balancer                    |
 | WAF                           | Cloud Armor for WAF              | Web Application Firewall        | Web Application Firewall         |
 | Database (Relational)         | Cloud SQL                        | RDS                              | SQL Database                     |
-| In-Memory (NoSQL)             | Memorystore                      | ElastiCache                     | Azure Cache for Redis                    |
+| In-Memory (NoSQL)             | Memorystore                      | ElastiCache                     | Azure Cache for Redis             |
 | Document Database             | Firestore                        | DynamoDB                         | Cosmos DB                        |
 | Data Analytics                | BigQuery                         | Redshift                         | Synapse Analytics                |
 | Data Processing/Analytics     | Dataproc                         | Elastic MapReduce                | HDInsight                        |
