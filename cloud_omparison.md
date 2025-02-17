@@ -1,6 +1,6 @@
 | **Product Category**                      | **Google Cloud**                  | **AWS**                       | **Azure**            |
 |:------------------------------|:---------------------------------|:---------------------------------|:---------------------------------|
-| Compute                       | Compute Engine (GCE)             | Elastic Compute Cloud (EC2)      | Virtual Machine                  |
+| Compute                       | Compute Engine (GCE)             | Elastic Compute Cloud (EC2)      | Virtual Machine (VMs)            |
 | Container Kubernetes Service | Google Kubernetes Engine (GKE)   | Elastic Kubernetes Service (EKS) | Azure Kubernetes Service (AKS) |
 | Serverless                    | Cloud Functions                    | Lambda                        | Azure Functions                  |
 | Object Storage                | Cloud Storage (GCS)              | Simple Storage Service (S3)     | Blob Storage                     |
