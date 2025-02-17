@@ -15,7 +15,7 @@
 | Data Analytics                | BigQuery                         | Redshift                         | Synapse Analytics                |
 | Data Processing/Analytics     | Dataproc                         | Elastic MapReduce                | HDInsight                        |
 | Streaming Analytics           | Dataflow                         | Kinesis                          | Streaming Analytics              |
-| Machine Learning / AI         | Vertex AI                        | SageMaker                        | Machine Learning                 |
+| AI/Machine Learning           | Vertex AI                        | SageMaker                        | Machine Learning                 |
 | ETL                           | Data Fusion                      | Glue                             | Data Factory                     |
 | Event Management              | Eventarc                         | EventBridge                      | Event Grid                       |
 | Queuing                       | Pub/Sub                          | Simple Queuing Service           | Storage Queues                   |
