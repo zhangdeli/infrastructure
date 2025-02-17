@@ -7,17 +7,17 @@
 | Block Storage                 | Persistent Disk                  | Elastic Block Store              | Managed Disk                     |
 | File Storage (NAS)            | Filestore                        | Elastic File System              | File Storage                     |
 | Networking                    | Virtual Private Cloud            | Virtual Private Cloud            | Virtual Network                  |
-| DNS                           | Cloud DNS                        | Route 53                         | DNS                              |
+| Domain Name System            | Cloud DNS                        | Route 53                         | DNS                              |
 | Load Balancing                | Cloud Load Balancing             | Elastic Load Balancing           | Load Balancer                    |
 | Security Service              | Cloud Armor                      | Web Application Firewall         | Web Application Firewall         |
 | Database (Relational)         | Cloud SQL                        | RDS                              | SQL Database                     |
 | In-Memory (NoSQL)             | Memorystore                      | ElastiCache                     | Azure Cache for Redis             |
 | Document Database             | Firestore                        | DynamoDB                         | Cosmos DB                        |
 | Data Warehouse                | BigQuery                         | Redshift                         | Synapse Analytics                |
-| BigData                       | Dataproc                         | Elastic MapReduce                | HDInsight                        |
+| BigData Platform              | Dataproc                         | Elastic MapReduce                | HDInsight                        |
+| ETL/Data Catalog              | Data Fusion                      | Glue                             | Data Factory                     |
 | Streaming Analytics           | Dataflow                         | Kinesis                          | Streaming Analytics              |
 | AI/AutoML                     | Vertex AI                        | SageMaker&Bedrock                | Machine Learning                 |
-| ETL                           | Data Fusion                      | Glue                             | Data Factory                     |
 | Event Driven System           | Eventarc                         | EventBridge                      | Event Grid                       |
 | Message Queue                 | Pub/Sub                          | Simple Queuing Service           | Storage Queues                   |
 | Monitoring                    | Cloud Monitoring                 | CloudWatch                       | Azure Monitor                    |
