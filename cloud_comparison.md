@@ -25,3 +25,4 @@
 | Infrastructure as Code        | Deployment Manager               | CloudFormation                   | Resource Manager                 |
 | Identity Management           | Cloud Identity                   | IAM                              | Active Directory                 |
 | Key Encryption                | Cloud KMS                        | KMS                              | Key Vault                        |
+| Developer tools               | Cloud Tasks                      | SNS                              | Azure Service Bus                |
