@@ -1,8 +1,8 @@
 # Cloud Services Cheat Sheet
 
-| **Service Type**              | **Google Cloud**                 | **AWS**                          | **Azure**                        |
+| **Service Type**              | **GCP**                          | **AWS**                          | **Azure**                        |
 |:------------------------------|:---------------------------------|:---------------------------------|:---------------------------------|
-| Virtual Machines              | Compute Engine (GCE)             | Elastic Compute Cloud (EC2)      | Virtual Machines (VMs)            |
+| Virtual Machines              | Compute Engine (GCE)             | Elastic Compute Cloud (EC2)      | Virtual Machines (VMs)           |
 | Kubernetes Platform           | Google Kubernetes Engine (GKE)   | Elastic Kubernetes Service (EKS)  | Azure Kubernetes Service (AKS)  |
 | Functions as Service          | Cloud Functions                  | Lambda                           | Azure Functions                  |
 | Object Storage                | Cloud Storage (GCS)              | Simple Storage Service (S3)      | Blob Storage                     |
