@@ -11,7 +11,7 @@
 | Networking                    | Virtual Private Cloud            | Virtual Private Cloud            | Virtual Network                  |
 | Domain Name System            | Cloud DNS                        | Route 53                         | DNS                              |
 | Load Balancing                | Cloud Load Balancing             | Elastic Load Balancing           | Load Balancer                    |
-| Security Service              | Cloud Armor                      | Web Application Firewall         | Web Application Firewall         |
+| Network Security              | Cloud Armor                      | Web Application Firewall         | Web Application Firewall         |
 | Database (Relational)         | Cloud SQL                        | RDS                              | SQL Database                     |
 | In-Memory (NoSQL)             | Memorystore                      | ElastiCache                     | Azure Cache for Redis             |
 | Document Database             | Firestore                        | DynamoDB                         | Cosmos DB                        |
