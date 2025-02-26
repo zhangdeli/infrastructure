@@ -18,6 +18,9 @@ Google Compute Engine (GCE) 提供多种虚拟机 (VM) 实例类型，旨在满�
 每个类别下都有不同的实例类型，每种类型都有不同的 vCPU 数量、内存容量、磁盘选项和网络性能。  用户可以根据其应用程序的资源需求选择最合适的实例类型。
 AWS 和 GCP 都有预定义的机器类型 (实例类型)。GCP 的特色在于，它还提供了自定义机器类型，允许用户更灵活地配置 vCPU 和内存，而 AWS 在自定义机器类型方面的灵活性相对较低。
 
+*   **GCP CPU 类型** [https://cloud.google.com/compute/docs/cpu-platforms](https://cloud.google.com/compute/docs/cpu-platforms) 
+*   **GCP GPU 类型** [https://cloud.google.com/compute/docs/gpus](https://cloud.google.com/compute/docs/gpus) 
+
 ## Amazon EC2 实例类型
 
 (请访问 [https://aws.amazon.com/cn/ec2/instance-types/](https://aws.amazon.com/cn/ec2/instance-types/) 查看完整且最新的信息。 这里仅提供一个概要。)
