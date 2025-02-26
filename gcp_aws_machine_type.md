@@ -1,3 +1,4 @@
+# Google GCE vs Amazon EC2 实例类型解析
 ## Google GCE 实例类型
 
 (请访问 [https://cloud.google.com/compute/docs/machine-resource/](https://cloud.google.com/compute/docs/machine-resource/) 查看完整且最新的信息。  这里仅提供一个概要。)
