@@ -28,3 +28,9 @@
 | Identity Management           | Cloud Identity                   | IAM                              | Active Directory                 |
 | Key Encryption                | Cloud KMS                        | KMS                              | Key Vault                        |
 | Developer tools               | Cloud Tasks                      | SNS                              | Azure Service Bus                |
+
+https://docs.cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison
+
+https://learn.microsoft.com/en-us/azure/architecture/gcp-professional/services
+
+https://comparecloud.in
