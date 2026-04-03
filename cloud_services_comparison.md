@@ -33,4 +33,6 @@ https://docs.cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison
 
 https://learn.microsoft.com/en-us/azure/architecture/gcp-professional/services
 
+https://learn.microsoft.com/en-us/azure/architecture/aws-professional
+
 https://comparecloud.in
